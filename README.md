@@ -1,4 +1,4 @@
 # crud_php
-Create Read Update Delete
+Create Read Update Delete.
 Username : puputdwim
 Password : rahasia
